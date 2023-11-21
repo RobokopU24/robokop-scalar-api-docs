@@ -1,1 +1,0 @@
-# robokop-scalar-api-docs
